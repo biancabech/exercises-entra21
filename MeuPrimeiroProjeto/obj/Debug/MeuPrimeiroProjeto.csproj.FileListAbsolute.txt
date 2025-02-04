@@ -1,0 +1,7 @@
+C:\Users\bianc\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\bianc\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe.config
+C:\Users\bianc\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe
+C:\Users\bianc\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.pdb
+C:\Users\bianc\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.exe
+C:\Users\bianc\source\repos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.pdb
