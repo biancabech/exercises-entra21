@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bianc\\source\\repos\\MeuPrimeiroProjeto\\",
+  "WorkspaceRootPath": "C:\\Users\\bianc\\source\\repos\\exercises-entra21\\Exercicios1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60EFA9E4-D54B-4844-824B-C7693DFADDC6}|MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj|c:\\users\\bianc\\source\\repos\\meuprimeiroprojeto\\meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60EFA9E4-D54B-4844-824B-C7693DFADDC6}|MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj|c:\\users\\bianc\\source\\repos\\exercises-entra21\\exercicios1\\meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60EFA9E4-D54B-4844-824B-C7693DFADDC6}|MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj|solutionrelative:meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bianc\\source\\repos\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bianc\\source\\repos\\exercises-entra21\\Exercicios1\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeDocumentMoniker": "MeuPrimeiroProjeto\\Program.cs",
-              "ToolTip": "C:\\Users\\bianc\\source\\repos\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\bianc\\source\\repos\\exercises-entra21\\Exercicios1\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "MeuPrimeiroProjeto\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowDEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T23:43:31.305Z",
               "EditorCaption": ""

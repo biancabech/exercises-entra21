@@ -1,0 +1,7 @@
+C:\Users\bianc\source\repos\exercises-entra21\Exercicio21\Exercicio21\bin\Debug\Exercicio21.exe.config
+C:\Users\bianc\source\repos\exercises-entra21\Exercicio21\Exercicio21\bin\Debug\Exercicio21.exe
+C:\Users\bianc\source\repos\exercises-entra21\Exercicio21\Exercicio21\bin\Debug\Exercicio21.pdb
+C:\Users\bianc\source\repos\exercises-entra21\Exercicio21\Exercicio21\obj\Debug\Exercicio21.csproj.AssemblyReference.cache
+C:\Users\bianc\source\repos\exercises-entra21\Exercicio21\Exercicio21\obj\Debug\Exercicio21.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\exercises-entra21\Exercicio21\Exercicio21\obj\Debug\Exercicio21.exe
+C:\Users\bianc\source\repos\exercises-entra21\Exercicio21\Exercicio21\obj\Debug\Exercicio21.pdb
