@@ -12,7 +12,7 @@ namespace Ex25_29_for
     {
         static void Main(string[] args)
         {
-            Ex29();
+            
         }
 
         static void Ex25()
