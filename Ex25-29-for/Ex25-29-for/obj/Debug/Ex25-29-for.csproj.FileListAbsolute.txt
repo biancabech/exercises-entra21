@@ -1,0 +1,7 @@
+C:\Users\bianc\source\repos\exercises-entra21\Ex25-29-for\Ex25-29-for\bin\Debug\Ex25-29-for.exe.config
+C:\Users\bianc\source\repos\exercises-entra21\Ex25-29-for\Ex25-29-for\bin\Debug\Ex25-29-for.exe
+C:\Users\bianc\source\repos\exercises-entra21\Ex25-29-for\Ex25-29-for\bin\Debug\Ex25-29-for.pdb
+C:\Users\bianc\source\repos\exercises-entra21\Ex25-29-for\Ex25-29-for\obj\Debug\Ex25-29-for.csproj.AssemblyReference.cache
+C:\Users\bianc\source\repos\exercises-entra21\Ex25-29-for\Ex25-29-for\obj\Debug\Ex25-29-for.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\exercises-entra21\Ex25-29-for\Ex25-29-for\obj\Debug\Ex25-29-for.exe
+C:\Users\bianc\source\repos\exercises-entra21\Ex25-29-for\Ex25-29-for\obj\Debug\Ex25-29-for.pdb
